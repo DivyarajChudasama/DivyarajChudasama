@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyarajchudasama" alt="divyarajchudasama" /></a> </p>
 
-- 🌱 I’m currently learning **Nextjs, Kotlin,typescript**
+- 🌱 I’m currently learning **Nextjs, FastApi,typescript**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-mu-beige-44.vercel.app/](https://portfolio-mu-beige-44.vercel.app/)
 
